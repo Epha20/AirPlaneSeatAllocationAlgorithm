@@ -1,0 +1,6 @@
+I picked Java treemap to define the seating algorithm because it provides an efficent means of storing key-value pairs in sorted order and provides navigation by using Red-Black tree algorithm.
+
+#Time and Space complexity
+They are measured by counting the number of primitive operations performed by the algorithm on given input size. So, the time and space complexity of treemap for get and other operations is O(log n). So if I am inserting n elements to map and expecting that elements are added in sorted order then it takes O(nlogn).
+
+   
